@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 
     - I'm actually 0b10100 years-old 😂
-    - You can see more of my work with my projects repos right below !
+    - You can see more of my work by consulting the projects repos right below :
 
 
