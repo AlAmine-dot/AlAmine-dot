@@ -13,17 +13,15 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on several projects :
 
-    - School management system (Java/JavaFX/MySQL)
+    - China Mall's Flutter App (DART)
     - Front-End web designs integration for various customers (HTML/CSS/JS)
-    - Social Media webApp (Angular/Angular material/Firebase)
 
 - 🌱 I’m currently learning :
 
-    - Python
-    - Advanced Angular Concepts
-    - Laravel
-    - Java EE
-    - JavaFX desktop UI designing
+    - Flutter
+    - Figma for UI Design
+    - Advanced Mobile Development Concepts
+    - Android (Kotlin)
 
 - 👯 I’m looking to collaborate on :
 
@@ -35,7 +33,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: 
 
-    - I'm actually 0b10100 years-old 😂
+    - I, as a programmer, always prefer Dark Mode because Light attract bugs. 😂
     - You can see more of my work by consulting the projects repos right below :
 
 
