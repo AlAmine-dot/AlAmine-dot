@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on several projects :
 
     - China Mall's Flutter App (DART)
-    - Front-End web designs integration for various customers (HTML/CSS/JS)
+    - Front-End web designs integration for various customers (HTML/CSS/JS
+    - Portfolio in Vue.js
 
 - 🌱 I’m currently learning :
 
     - Flutter
     - Figma for UI Design
-    - Advanced Vue.js framework Concepts (builing a portfolio)
+    - Advanced Vue.js framework Concepts 
     - Android (Kotlin)
 
 - 👯 I’m looking to collaborate on :
