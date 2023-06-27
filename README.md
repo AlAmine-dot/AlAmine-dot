@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
     - Flutter
     - Figma for UI Design
-    - Advanced Mobile Development Concepts
+    - Advanced Vue.js framework Concepts (builing a portfolio)
     - Android (Kotlin)
 
 - 👯 I’m looking to collaborate on :
